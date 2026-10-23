@@ -1,2 +1,24 @@
-# toko donat warga
-projek toko donat saja
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Toko donat</title>
+</head>
+<style>
+    h1{
+        color: red;
+    }
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
+<body>
+    <h1>Dunia Donat</h1>
+    <img src="/uploads/2023/02/donut.png" class="hi">
+</body>
+</html>
